@@ -9,3 +9,7 @@
 
 [Ссылка на таблицу с SQL запросами JOIN](https://docs.google.com/spreadsheets/d/1WHC76jRi1ekbyIG3w2g3Hk9n3s3xmFHEc4L0NbM7aNA/edit?usp=sharing)
 
+Создание коллекции в MongoDB
+
+[Ссылка на таблицу с запросами в MongoDB](https://docs.google.com/spreadsheets/d/1RneqXBtC-0-lJ6go3g9O78qq3eHlL9QUStHXCqc1hcY/edit?usp=sharing)
+
