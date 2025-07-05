@@ -1,4 +1,4 @@
-# database
+# 📂 database
 ## **Working with MySQL** ##
 
 _Here are MySQL queries that I used to explore databases for the web store [demoshopping.ru](https://demoshopping.ru/) during QA practice:_
