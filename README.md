@@ -1,15 +1,13 @@
 # database
-**Работа с базами данных**
+## **Working with MySQL** ##
 
-Отправка SELECT-запросов
+_Here are MySQL queries that I used to explore databases for the web store [demoshopping.ru](https://demoshopping.ru/) during QA practice:_
 
-[Ссылка на таблицу с SQL запросами SELECT](https://docs.google.com/spreadsheets/d/1d9mGr5n1QA7kDTCEba4yVL6hzjl_JTOIW9sqjdowzB0/edit?usp=sharing)
+- [SELECT queries](https://docs.google.com/spreadsheets/d/1d9mGr5n1QA7kDTCEba4yVL6hzjl_JTOIW9sqjdowzB0/edit?usp=sharing)
 
-Отправка JOIN-запросов
+- [JOIN queries](https://docs.google.com/spreadsheets/d/1WHC76jRi1ekbyIG3w2g3Hk9n3s3xmFHEc4L0NbM7aNA/edit?usp=sharing)
 
-[Ссылка на таблицу с SQL запросами JOIN](https://docs.google.com/spreadsheets/d/1WHC76jRi1ekbyIG3w2g3Hk9n3s3xmFHEc4L0NbM7aNA/edit?usp=sharing)
+## **Working with MongoDB** ##
 
-Создание коллекции в MongoDB
-
-[Ссылка на таблицу с запросами в MongoDB](https://docs.google.com/spreadsheets/d/1RneqXBtC-0-lJ6go3g9O78qq3eHlL9QUStHXCqc1hcY/edit?usp=sharing)
+- [MongoDB queries](https://docs.google.com/spreadsheets/d/1RneqXBtC-0-lJ6go3g9O78qq3eHlL9QUStHXCqc1hcY/edit?usp=sharing)
 
