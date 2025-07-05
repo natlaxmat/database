@@ -9,5 +9,7 @@ _Here are MySQL queries that I used to explore databases for the web store [demo
 
 ## **Working with MongoDB** ##
 
+_As part of the study I also practiced working in MongoDB. Here are some queries:_
+
 - [MongoDB queries](https://docs.google.com/spreadsheets/d/1RneqXBtC-0-lJ6go3g9O78qq3eHlL9QUStHXCqc1hcY/edit?usp=sharing)
 
